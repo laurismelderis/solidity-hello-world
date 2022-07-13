@@ -14,6 +14,6 @@ The purpose of this project is to learn the ways of contracts in blockchain.
 ### Finish project setup:
 
 1. In the project do `npm i`
-2. Do `npm deploy` for deploying the contract with initial message
+2. Do `npm run deploy` for deploying the contract with initial message
 3. After deployment save the contract key in .env [in .env file -> `CONTRACT`]
-4. Then do `npm interact` to update the deployed contract with new message
+4. Then do `npm run interact` to update the deployed contract with new message
